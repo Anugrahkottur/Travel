@@ -1,0 +1,37 @@
+.story
+{
+    background-color: aliceblue;
+    margin-left: 20%;
+    margin-right: 20%;
+  
+}
+.success
+{
+    text-align: center;
+}
+.world
+{
+    padding-left: 2%;
+}
+.lorem
+{
+    padding-left: 2%;
+}
+.dummy
+{
+    padding-left: 2%;
+}
+button
+{
+    margin-left: 2%;
+    border-radius: 20%;
+    background: none;
+    background-color: black;
+    color: aliceblue;
+}
+img
+{
+    width: 230px;
+    margin-left: 68%;
+
+}
